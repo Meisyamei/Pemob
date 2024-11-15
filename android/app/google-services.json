@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "539211901154",
+    "project_id": "pemob-9882d",
+    "storage_bucket": "pemob-9882d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539211901154:android:b63ffa199b7fd345f096bb",
+        "android_client_info": {
+          "package_name": "com.example.pert4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjSnSAEl5tngySqNCexF7TbCHegHwE364"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539211901154:android:a0bf71e4cb4b6307f096bb",
+        "android_client_info": {
+          "package_name": "my.id.meiiii.pert6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjSnSAEl5tngySqNCexF7TbCHegHwE364"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539211901154:android:d28184c90a7a64f0f096bb",
+        "android_client_info": {
+          "package_name": "my.id.meisya.uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjSnSAEl5tngySqNCexF7TbCHegHwE364"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
